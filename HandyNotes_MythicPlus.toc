@@ -1,0 +1,17 @@
+## Interface: 100002
+## Title: HandyNotes: MythicPlus
+## Version: 27
+## Notes: Dragonflight MythicPlus Notes
+## OptionalDeps: Ace3
+## RequiredDeps: HandyNotes
+## X-Embeds: Ace3
+## SavedVariables: HandyNotes_MythicPlusDB
+
+
+# Locale files
+Locales\enUS.lua
+Locales\frFR.lua
+
+core.lua
+config.lua
+nodes.lua
