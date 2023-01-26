@@ -1,10 +1,11 @@
 ## Interface: 100005
 ## Title: HandyNotes: MythicPlus
-## Version: 2
+## Version: @project-version@
 ## Notes: Dragonflight MythicPlus Notes
 ## OptionalDeps: Ace3
 ## RequiredDeps: HandyNotes
 ## SavedVariables: HandyNotes_MythicPlusDB
+## X-Curse-Project-ID: 785031
 
 
 # Locale files
