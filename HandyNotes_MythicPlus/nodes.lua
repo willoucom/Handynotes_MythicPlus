@@ -16,7 +16,14 @@ local L = LibStub("AceLocale-3.0"):GetLocale(myname, false)
     },
 --]]
 ns.points = {
+    -- Halls of valor
     [705] = {
+        [51227199] = {
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["title"] = "83.7 % Before bridge",
+            ["desc"] = "",
+        },
         [54698831] = {
             ["icon"] = 2,
             ["title"] = "King Haldor",
@@ -50,6 +57,7 @@ ns.points = {
             ["desc"] = "This is a test",
         },
     },
+    -- Ruby Sanctum (lower)
     [2095] = {
         [44172995] = {
             ["icon"] = 7,
@@ -76,6 +84,7 @@ ns.points = {
             ["desc"] = "don't touch eggs",
         },
     },
+    -- Agelthar academy
     [2097] = {
         [42856894] = {
             ["icon"] = 2,
@@ -114,6 +123,7 @@ ns.points = {
             ["desc"] = "Black Dragonflight Recruiter",
         },
     },
+    -- Ruby Sanctum (upper)
     [2094] = {
         [39755387] = {
             ["cont"] = false,
@@ -126,6 +136,15 @@ ns.points = {
             ["title"] = "Flamehead",
             ["cont"] = false,
             ["desc"] = "Warning: Breath",
+        },
+    },
+    -- Nokhud invasion
+    [2093] = {
+        [33764275] = {
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["title"] = "93.8 % For skip",
+            ["desc"] = "",
         },
     },
 }

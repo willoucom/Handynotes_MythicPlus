@@ -25,11 +25,13 @@ Useful for new and experienced pushers alike.
 - #Todo: Stairs jump
 
 ### The Nokhud Offensive (Dragonflight)
+- Percentage and point for skip 
 - #Todo: Patrols around the balistas
 - #Todo: Cleave+Fear mobs before last boss
 
 ### Halls of Valor (Legion)
 - Location of Kings
+- Percentage required before bridge
 
 ### Court of Stars (Legion)
 - #Todo: Explanations on the henchmen of the second boss
