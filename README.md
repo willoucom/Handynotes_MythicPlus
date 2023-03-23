@@ -8,7 +8,7 @@ With Handynotes and this module, you can check on the instance map all the impor
 
 Useful for new and experienced pushers alike.
 
-Available in English and French, looking for translators
+Available in English, French and Russian, looking for translators
 
 ## Mythic Dungeons Season 1
 
