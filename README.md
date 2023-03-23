@@ -8,37 +8,23 @@ With Handynotes and this module, you can check on the instance map all the impor
 
 Useful for new and experienced pushers alike.
 
+Available in English and French, looking for translators
 
 ## Mythic Dungeons Season 1
 
 ### Ruby Life Pools (Dragonflight)
-- Location of the eggs
 - Location of the dragons
-- #Todo: Patrols in the upper area
 
 ### Algeth'ar Academy (Dragonflight)
 - Dragonflight recruiter's Buffs
-- #Todo: Bridge area
-
-### The Azure Vault (Dragonflight)
-- #Todo: Dragon sentinels
-- #Todo: Stairs jump
 
 ### The Nokhud Offensive (Dragonflight)
 - Percentage and point for skip 
-- #Todo: Patrols around the balistas
-- #Todo: Cleave+Fear mobs before last boss
 
 ### Halls of Valor (Legion)
 - Location of Kings
 - Percentage required before bridge
 
 ### Court of Stars (Legion)
-- #Todo: Explanations on the henchmen of the second boss
-
-### Shadowmoon Burial Grounds (Warlords of Draenor)
-- #Todo: Explanations of the Shadowmoon Dominators
-
-### Temple of the Jade Serpent (Mists of Pandaria)
-- #Todo: Haunting Sha's fear
+- Percentage required before masquerade
 

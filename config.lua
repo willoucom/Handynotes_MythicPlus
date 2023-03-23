@@ -22,25 +22,25 @@ ns.options = {
     args = {
         icon = {
             type = "group",
-            name = "Icon settings",
+            name = L["Settings_Icons"],
             inline = true,
             args = {
                 desc = {
-                    name = "These settings control the look and feel of the icon.",
+                    name = L["Settings_desc"],
                     type = "description",
                     order = 0,
                 },
                 icon_scale = {
                     type = "range",
-                    name = "Icon Scale",
-                    desc = "The scale of the icons",
+                    name = L["Settings_iconscale"],
+                    desc = L["Settings_iconscale_desc"],
                     min = 0.25, max = 2, step = 0.01,
                     order = 20,
                 },
                 icon_alpha = {
                     type = "range",
-                    name = "Icon Alpha",
-                    desc = "The alpha transparency of the icons",
+                    name = L["Settings_iconalpha"],
+                    desc = L["Settings_iconalpha_desc"],
                     min = 0, max = 1, step = 0.01,
                     order = 30,
                 },
