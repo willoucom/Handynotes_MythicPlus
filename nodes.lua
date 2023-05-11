@@ -123,4 +123,29 @@ ns.points = {
             ["desc"] = "",
         },
     },
+    -- Brackenhide Hollow (entrance)
+    [2096] = {
+    },
+    -- Freehold (FH)
+    [936] = {
+    },
+    -- Halls of Infusion (HOI)
+    [2082] = {
+    },
+    -- Neltharion's Lair (NL)
+    [731] = {
+    },
+    -- Neltharus (NELT)
+    [2080] = {
+    },
+    -- Uldaman: Legacy of Tyr (ULD)
+    [2071] = {
+    },
+    -- The Underrot (UNDR)
+    [1041] = {
+    },
+    -- The Vortex Pinnacle (VP)
+    [325] = {
+    },
+
 }

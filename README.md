@@ -10,6 +10,17 @@ Useful for new and experienced pushers alike.
 
 Available in English, French and Russian, looking for translators
 
+## Mythic Dungeons Season 2
+
+### Brackenhide Hollow (BH)
+### Freehold (FH)
+### Halls of Infusion (HOI)
+### Neltharion's Lair (NL)
+### Neltharus (NELT)
+### Uldaman: Legacy of Tyr (ULD)
+### The Underrot (UNDR)
+### The Vortex Pinnacle (VP)
+
 ## Mythic Dungeons Season 1
 
 ### Ruby Life Pools (Dragonflight)

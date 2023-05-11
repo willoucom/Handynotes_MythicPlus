@@ -44,3 +44,12 @@ L["NO_percentage"] = "93.8 % For skip"
 
 -- Court of stars
 L["COS_percentage"] = "93.68% before entering the masquerade after killing Talixae"
+
+-- Brackenhide Hollow (BH)
+-- Freehold (FH)
+-- Halls of Infusion (HOI)
+-- Neltharion's Lair (NL)
+-- Neltharus (NELT)
+-- Uldaman: Legacy of Tyr (ULD)
+-- The Underrot (UNDR)
+-- The Vortex Pinnacle (VP)
