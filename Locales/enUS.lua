@@ -46,6 +46,13 @@ L["NO_percentage"] = "93.8 % For skip"
 L["COS_percentage"] = "93.68% before entering the masquerade after killing Talixae"
 
 -- Brackenhide Hollow (BH)
+L["BH_skip"] = "Skip"
+L["BH_skip_desc"] = "You can pass by walking/swimming in the water"
+L["BH_gen_cauldron"] = "Cauldron usage"
+L["BH_gen_cauldron_desc"] = "Alchemist with 25 skill point can activate the cauldron, then any player can use an extra button to clean one Disease"
+L["BH_cauldron"] = "Cauldron"
+L["BH_cauldron_desc"] = "Pick the cauldron then use the extra button to clean any desease"
+
 -- Freehold (FH)
 -- Halls of Infusion (HOI)
 -- Neltharion's Lair (NL)

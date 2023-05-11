@@ -13,6 +13,10 @@ Available in English, French and Russian, looking for translators
 ## Mythic Dungeons Season 2
 
 ### Brackenhide Hollow (BH)
+- Cauldrons' usage
+- Location of cauldrons
+- Some possible skip in first area
+
 ### Freehold (FH)
 ### Halls of Infusion (HOI)
 ### Neltharion's Lair (NL)
