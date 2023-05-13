@@ -8,7 +8,7 @@ With Handynotes and this module, you can check on the instance map all the impor
 
 Useful for new and experienced pushers alike.
 
-Available in English, French and Russian, looking for translators
+Available in English, French, Spanish and Russian, looking for translators: [Curseforge](https://legacy.curseforge.com/wow/addons/handynotes_mythicplus/localization)
 
 ## Mythic Dungeons Season 2
 
@@ -18,6 +18,8 @@ Available in English, French and Russian, looking for translators
 - Some possible skip in first area
 
 ### Freehold (FH)
+- Percentage required before last bridge
+
 ### Halls of Infusion (HOI)
 ### Neltharion's Lair (NL)
 ### Neltharus (NELT)
