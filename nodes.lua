@@ -131,6 +131,12 @@ ns.points = {
             ["title"] = L["BH_skip"],
             ["desc"] = L["BH_skip_desc"],
         },
+        [28503637] = {
+            ["cont"] = false,
+            ["icon"] = 1,
+            ["title"] = L["BH_cauldron"],
+            ["desc"] = L["BH_cauldron_desc"],
+        },
         [17863978] = {
             ["cont"] = false,
             ["icon"] = 1,
