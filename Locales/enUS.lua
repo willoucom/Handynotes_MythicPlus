@@ -54,6 +54,7 @@ L["BH_cauldron"] = "Cauldron"
 L["BH_cauldron_desc"] = "Pick the cauldron then use the extra button to clean any desease."
 
 -- Freehold (FH)
+L["FH_percentage"] = "82.25% Before Bridge"
 -- Halls of Infusion (HOI)
 -- Neltharion's Lair (NL)
 -- Neltharus (NELT)

@@ -170,6 +170,12 @@ ns.points = {
     },
     -- Freehold (FH)
     [936] = {
+        [39744706] = {
+            ["icon"] = 12,
+            ["title"] = L["FH_percentage"],
+            ["cont"] = false,
+            ["desc"] = "",
+        },
     },
     -- Halls of Infusion (HOI)
     [2082] = {
