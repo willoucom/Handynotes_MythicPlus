@@ -8,7 +8,7 @@
 ## RequiredDeps: HandyNotes
 ## SavedVariables: HandyNotes_MythicPlusDB
 ## X-Curse-Project-ID: 785031
-
+## IconTexture: 525134
 
 # Locale files
 Locales\enUS.lua
