@@ -58,6 +58,10 @@ L["FH_percentage"] = "82.25% Before Bridge"
 -- Halls of Infusion (HOI)
 -- Neltharion's Lair (NL)
 -- Neltharus (NELT)
+L["NELT_percentage"] = "88.57% Required before bridge"
+L["NELT_percentage_desc"] = "You can compensate missing % by pulling mobs around the last boss area"
 -- Uldaman: Legacy of Tyr (ULD)
+L["ULD_percentage"] = "57.22% Before event"
 -- The Underrot (UNDR)
 -- The Vortex Pinnacle (VP)
+L["VP_slipstream"] = "Use the slipstream to teleport to the other marker"
