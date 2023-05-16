@@ -206,6 +206,31 @@ ns.points = {
     },
     -- The Vortex Pinnacle (VP)
     [325] = {
+        [31018095] = {
+            ["icon"] = 4,
+            ["title"] = L["VP_slipstream"],
+            ["cont"] = false,
+            ["desc"] = "A",
+        },
+        [52532141] = {
+            ["icon"] = 4,
+            ["title"] = L["VP_slipstream"],
+            ["cont"] = false,
+            ["desc"] = "A",
+        },
+        [63535843] = {
+            ["icon"] = 3,
+            ["title"] = L["VP_slipstream"],
+            ["cont"] = false,
+            ["desc"] = "B",
+        },
+        [56601539] = {
+            ["icon"] = 3,
+            ["title"] = L["VP_slipstream"],
+            ["cont"] = false,
+            ["desc"] = "B",
+        },
+
     },
 
 }
