@@ -23,9 +23,12 @@ Available in English, French, Spanish and Russian, looking for translators: [Cur
 ### Halls of Infusion (HOI)
 ### Neltharion's Lair (NL)
 ### Neltharus (NELT)
+- Percentage required before last bridge
 ### Uldaman: Legacy of Tyr (ULD)
+- Percentage required before time event
 ### The Underrot (UNDR)
 ### The Vortex Pinnacle (VP)
+- Location of slipstreams
 
 ## Mythic Dungeons Season 1
 
