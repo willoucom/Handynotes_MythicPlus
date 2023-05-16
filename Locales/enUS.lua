@@ -65,3 +65,5 @@ L["ULD_percentage"] = "57.22% Before event"
 -- The Underrot (UNDR)
 -- The Vortex Pinnacle (VP)
 L["VP_slipstream"] = "Use the slipstream to teleport to the other marker"
+L["VP_slipstream_desc1"] = "After defeat of Ertan"
+L["VP_slipstream_desc2"] = "After defeat of Altairus"
