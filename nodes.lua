@@ -185,6 +185,12 @@ ns.points = {
     },
     -- Neltharus (NELT)
     [2080] = {
+        [52065674] = {
+            ["title"] = L["NELT_percentage"],
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["desc"] = L["NELT_percentage_desc"],
+        },
     },
     -- Uldaman: Legacy of Tyr (ULD)
     [2071] = {
