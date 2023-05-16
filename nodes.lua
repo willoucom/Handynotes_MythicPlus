@@ -194,6 +194,12 @@ ns.points = {
     },
     -- Uldaman: Legacy of Tyr (ULD)
     [2071] = {
+        [25751879] = {
+            ["title"] = L["ULD_percentage"],
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["desc"] = "",
+        },
     },
     -- The Underrot (UNDR)
     [1041] = {
