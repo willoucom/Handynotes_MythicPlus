@@ -179,6 +179,24 @@ ns.points = {
     },
     -- Halls of Infusion (HOI)
     [2082] = {
+        [39504892] = {
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["title"] = L["HOI_door"],
+            ["desc"] = "",
+        },
+        [50387403] = {
+            ["cont"] = false,
+            ["icon"] = 4,
+            ["title"] = L["HOI_shortcut_frog"],
+            ["desc"] = "",
+        },
+        [28387360] = {
+            ["cont"] = false,
+            ["icon"] = 6,
+            ["title"] = L["HOI_shortcut_icelady"],
+            ["desc"] = "",
+        },
     },
     -- Neltharion's Lair (NL)
     [731] = {

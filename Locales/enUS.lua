@@ -56,6 +56,9 @@ L["BH_cauldron_desc"] = "Pick the cauldron then use the extra button to clean an
 -- Freehold (FH)
 L["FH_percentage"] = "82.25% Before Bridge"
 -- Halls of Infusion (HOI)
+L["HOI_door"] = "Opens after death of first boss"
+L["HOI_shortcut_frog"] = "Shortcut to Gulping Goliath (frog)"
+L["HOI_shortcut_icelady"] = "Shortcut to Khajin the Unyielding (ice lady)"
 -- Neltharion's Lair (NL)
 -- Neltharus (NELT)
 L["NELT_percentage"] = "88.57% Required before bridge"

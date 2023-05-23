@@ -16,11 +16,10 @@ Available in English, French, Spanish and Russian, looking for translators: [Cur
 - Cauldrons' usage
 - Location of cauldrons
 - Some possible skip in first area
-
 ### Freehold (FH)
 - Percentage required before last bridge
-
 ### Halls of Infusion (HOI)
+- Skip door + location of each boss
 ### Neltharion's Lair (NL)
 ### Neltharus (NELT)
 - Percentage required before last bridge
