@@ -21,12 +21,9 @@ L["BH_skip"] = "|cff00ff7fПропуск|r"
 L["BH_skip_desc"] = "|cffff0025Вы можете пройти пешком / плавать в воде.|r"
 L["COS_percentage"] = "|cff00ffffНужно 93.68% перед убийством Советника Меландра|r"
 L["FH_percentage"] = "|cff00ffffНужно 82.25% до моста|r"
---[[Translation missing --]]
---[[ L["HOI_door"] = "Opens after death of first boss"--]] 
---[[Translation missing --]]
---[[ L["HOI_shortcut_frog"] = "Shortcut to Gulping Goliath (frog)"--]] 
---[[Translation missing --]]
---[[ L["HOI_shortcut_icelady"] = "Shortcut to Khajin the Unyielding (ice lady)"--]] 
+L["HOI_door"] = "|cff00ffffОткрывается после смерти первого босса|r"
+L["HOI_shortcut_frog"] = "|cff00ffffКратчайший путь к Голиафу-проглоту (лягушка)|r"
+L["HOI_shortcut_icelady"] = "|cff00ffffКратчайший путь к Каджин Непреклонная (ледяная леди)|r"
 L["HOV_bjorn"] = "|cff00ff7fКороль Бьорн|r"
 L["HOV_bjorn_desc"] = "|cffff0025'Гибельный кинжал' - бросает в случайно выбранную цель кинжал, нанося 37472 ед. физического урона и уменьшая исцеляющие эффекты на 50% на 15 сек.|r"
 L["HOV_haldor"] = "|cff00ff7fКороль Галдор|r"
