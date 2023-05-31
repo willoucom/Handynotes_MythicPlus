@@ -26,6 +26,7 @@ Available in English, French, Spanish and Russian, looking for translators: [Cur
 ### Uldaman: Legacy of Tyr (ULD)
 - Percentage required before time event
 ### The Underrot (UNDR)
+- Skip location
 ### The Vortex Pinnacle (VP)
 - Location of slipstreams
 

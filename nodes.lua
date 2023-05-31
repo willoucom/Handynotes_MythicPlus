@@ -221,6 +221,12 @@ ns.points = {
     },
     -- The Underrot (UNDR)
     [1041] = {
+        [55525341] = {
+            ["title"] = L["UNDR_skip"],
+            ["cont"] = false,
+            ["icon"] = 12,
+            ["desc"] = "",
+        },
     },
     -- The Vortex Pinnacle (VP)
     [325] = {

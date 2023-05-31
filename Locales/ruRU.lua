@@ -2,7 +2,6 @@ local myname, ns = ...
 
 local L = LibStub("AceLocale-3.0"):NewLocale(myname, "ruRU")
 if not L then return end
-
 L["AA_black_drake"] = "|cff00ff7f+5% к критическому удару|r"
 L["AA_black_drake_desc"] = "|cffff0025Чёрный Дракон|r"
 L["AA_blue_drake"] = "|cff00ff7f+584 к искусности|r"
@@ -48,6 +47,8 @@ L["Settings_Icons"] = "Настройки значка"
 L["Settings_iconscale"] = "Масштаб значка"
 L["Settings_iconscale_desc"] = "Масштаб значков"
 L["ULD_percentage"] = "|cff00ffff57.22% до события|r"
+--[[Translation missing --]]
+--[[ L["UNDR_skip"] = "You can use the shortcut after the death of the second boss"--]] 
 L["VP_slipstream"] = "|cff00ffffИспользуйте скользящий поток, чтобы телепортироваться к другому маркеру|r"
 L["VP_slipstream_desc1"] = "|cffff0025После поражения Эртана|r"
 L["VP_slipstream_desc2"] = "|cffff0025После поражения Альтаирия|r"

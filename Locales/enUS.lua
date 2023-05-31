@@ -66,6 +66,7 @@ L["NELT_percentage_desc"] = "You can compensate missing % by pulling mobs around
 -- Uldaman: Legacy of Tyr (ULD)
 L["ULD_percentage"] = "57.22% Before event"
 -- The Underrot (UNDR)
+L["UNDR_skip"] = "You can use the shortcut after the death of the second boss"
 -- The Vortex Pinnacle (VP)
 L["VP_slipstream"] = "Use the slipstream to teleport to the other marker"
 L["VP_slipstream_desc1"] = "After defeat of Ertan"
