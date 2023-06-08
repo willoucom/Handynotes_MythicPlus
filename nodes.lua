@@ -218,6 +218,24 @@ ns.points = {
             ["icon"] = 12,
             ["desc"] = "",
         },
+        [57686786] = {
+            ["title"] = L["ULD_mining"],
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["desc"] = "",
+        },
+        [80874419] = {
+            ["title"] = L["ULD_mining"],
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["desc"] = "",
+        },
+        [73708867] = {
+            ["title"] = L["ULD_mining"],
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["desc"] = "",
+        },
     },
     -- The Underrot (UNDR)
     [1041] = {
