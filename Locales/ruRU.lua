@@ -46,9 +46,10 @@ L["Settings_iconalpha_desc"] = "Прозрачность значков"
 L["Settings_Icons"] = "Настройки значка"
 L["Settings_iconscale"] = "Масштаб значка"
 L["Settings_iconscale_desc"] = "Масштаб значков"
-L["ULD_percentage"] = "|cff00ffff57.22% до события|r"
 --[[Translation missing --]]
---[[ L["UNDR_skip"] = "You can use the shortcut after the death of the second boss"--]] 
+--[[ L["ULD_mining"] = "A Miner with 25 skill points can mine the deposit, granting 10% out of combat movement speed per deposit (3 in total, up to 30% movement speed)"--]] 
+L["ULD_percentage"] = "|cff00ffff57.22% до события|r"
+L["UNDR_skip"] = "|cff00ffffВы можете использовать кратчайший путь после смерти второго босса|r"
 L["VP_slipstream"] = "|cff00ffffИспользуйте скользящий поток, чтобы телепортироваться к другому маркеру|r"
 L["VP_slipstream_desc1"] = "|cffff0025После поражения Эртана|r"
 L["VP_slipstream_desc2"] = "|cffff0025После поражения Альтаирия|r"
