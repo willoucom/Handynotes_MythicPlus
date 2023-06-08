@@ -17,6 +17,7 @@ Locales\enUS.lua
 Locales\frFR.lua
 Locales\ruRU.lua
 Locales\esES.lua
+Locales\zhCN.lua
 
 core.lua
 config.lua
