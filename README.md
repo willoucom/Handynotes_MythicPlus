@@ -20,6 +20,7 @@ Available in English, French, Spanish, Simplified Chinese and Russian, looking f
 - Percentage required before last bridge
 ### Halls of Infusion (HOI)
 - Skip door + location of each boss
+- Mushroom location
 ### Neltharion's Lair (NL)
 ### Neltharus (NELT)
 - Percentage required before last bridge
