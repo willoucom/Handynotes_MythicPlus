@@ -8,6 +8,8 @@ With Handynotes and this module, you can check on the instance map all the impor
 
 Useful for new and experienced pushers alike.
 
+You may want to check my other addon related to M+ pushing : [MythicKeystone](https://www.curseforge.com/wow/addons/mythickeystone)
+
 Available in English, French, Spanish, Simplified Chinese and Russian, looking for translators: [Curseforge](https://legacy.curseforge.com/wow/addons/handynotes_mythicplus/localization)
 
 ## Mythic Dungeons Season 2
