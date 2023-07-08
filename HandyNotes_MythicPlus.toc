@@ -11,6 +11,7 @@
 ## SavedVariables: HandyNotes_MythicPlusDB
 ## X-Curse-Project-ID: 785031
 ## X-Wago-ID: 5NRe8wG3
+## X-WoWI-ID: 26604
 ## IconTexture: 525134
 
 # Locale files
