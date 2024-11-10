@@ -338,4 +338,37 @@ ns.points = {
             ["desc"] = L["CT_buff_desc"],
         },
     },
+    -- Ara Kara (ARAK)
+    [2357] = {
+        [18005100] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["ARAK_buff"],
+            ["desc"] = L["ARAK_buff_desc"],
+        },
+        [33403750] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["ARAK_buff"],
+            ["desc"] = L["ARAK_buff_desc"],
+        },
+        [64104430] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["ARAK_buff"],
+            ["desc"] = L["ARAK_buff_desc"],
+        },
+        [73105370] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["ARAK_buff"],
+            ["desc"] = L["ARAK_buff_desc"],
+        },
+        [69105960] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["ARAK_buff"],
+            ["desc"] = L["ARAK_buff_desc"],
+        },
+    },
 }

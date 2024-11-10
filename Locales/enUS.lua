@@ -87,3 +87,6 @@ L["SV_buff_desc"] = " Warriors, Dwarves, and Blacksmiths can buff group (10% ver
 -- City of threads (CT)
 L["CT_buff"] = "Buff"
 L["CT_buff_desc"] = "Rogues, Priests, and Engineers can buff group (15% increase to DPS and HPS and a 50% increase to movement speed)"
+-- Ara Kara (ARAK)
+L["ARAK_buff"] = "Buff"
+L["ARAK_buff_desc"] = "Tailoring get a on use 10 second stun that even works on the Shrilling Voice mini-bosses"
