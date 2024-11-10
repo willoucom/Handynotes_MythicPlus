@@ -1,11 +1,11 @@
-## Interface: 100105
+## Interface: 110007
 ## Title: HandyNotes: MythicPlus
 ## Title-ruRU: HandyNotes: Подземелья М+
 ## Title-frFR: HandyNotes: MythicPlus
 ## Version: @project-version@
-## Notes: Dragonflight MythicPlus Notes
+## Notes: MythicPlus Notes
 ## Notes-ruRU: Заметки к подземельям М+
-## Notes-frFR: Dragonflight: Aides pour Mythic+
+## Notes-frFR: Aides pour Mythic+
 ## OptionalDeps: Ace3
 ## RequiredDeps: HandyNotes
 ## SavedVariables: HandyNotes_MythicPlusDB
