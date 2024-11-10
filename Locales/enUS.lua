@@ -81,3 +81,6 @@ L["MoTSD_buff"] = "Buff"
 L["MoTSD_buff_desc"] = "Druids, Night Elves, Taurens, and Herbalists can open a zone with mushrooms (10% stat buff)"
 L["MoTSD_seed"] = "Checkpoint"
 L["MoTSD_seed_desc"] = "Anyone can click on the seed to enable checkpoint"
+-- Stonevault (SV)
+L["SV_buff"] = "Buff"
+L["SV_buff_desc"] = " Warriors, Dwarves, and Blacksmiths can buff group (10% versatility)"

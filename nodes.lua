@@ -308,4 +308,13 @@ ns.points = {
             ["desc"] = L["MoTSD_shortcut_desc"],
         },
     },
+    -- Stonevault
+    [2341] = {
+        [35304940] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["SV_buff"],
+            ["desc"] = L["SV_buff_desc"],
+        },
+    },
 }
