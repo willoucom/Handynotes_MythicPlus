@@ -317,4 +317,25 @@ ns.points = {
             ["desc"] = L["SV_buff_desc"],
         },
     },
+    -- City of threads (CT)
+    [2343] = {
+        [48161811] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["CT_buff"],
+            ["desc"] = L["CT_buff_desc"],
+        },
+        [55002100] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["CT_buff"],
+            ["desc"] = L["CT_buff_desc"],
+        },
+        [55502990] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["CT_buff"],
+            ["desc"] = L["CT_buff_desc"],
+        },
+    },
 }

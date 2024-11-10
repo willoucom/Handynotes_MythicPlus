@@ -84,3 +84,6 @@ L["MoTSD_seed_desc"] = "Anyone can click on the seed to enable checkpoint"
 -- Stonevault (SV)
 L["SV_buff"] = "Buff"
 L["SV_buff_desc"] = " Warriors, Dwarves, and Blacksmiths can buff group (10% versatility)"
+-- City of threads (CT)
+L["CT_buff"] = "Buff"
+L["CT_buff_desc"] = "Rogues, Priests, and Engineers can buff group (15% increase to DPS and HPS and a 50% increase to movement speed)"
