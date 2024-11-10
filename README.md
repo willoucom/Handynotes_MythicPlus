@@ -12,7 +12,23 @@ You may want to check my other addon related to M+ pushing : [MythicKeystone](ht
 
 Available in English, French, Spanish, Simplified Chinese and Russian, looking for translators: [Curseforge](https://legacy.curseforge.com/wow/addons/handynotes_mythicplus/localization)
 
-## Mythic Dungeons Season 2
+## War Within Mythic Dungeons Season 1
+
+### Mists of Tirna Scithe (MoTS)
+- Shortcut to first pack
+- Mushrooms
+- Checkpoints
+
+### Stonevault (SV)
+- Profession buff
+
+### City of threads (CT)
+- Profession buff
+
+### Ara Kara (ARAK)
+- Profession buff
+
+## Dragonflight Mythic Dungeons Season 2
 
 ### Brackenhide Hollow (BH)
 - Cauldrons' usage
@@ -34,7 +50,7 @@ Available in English, French, Spanish, Simplified Chinese and Russian, looking f
 ### The Vortex Pinnacle (VP)
 - Location of slipstreams
 
-## Mythic Dungeons Season 1
+## Dragonflight Mythic Dungeons Season 1
 
 ### Ruby Life Pools (Dragonflight)
 - Location of the dragons
