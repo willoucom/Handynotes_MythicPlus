@@ -280,7 +280,32 @@ ns.points = {
             ["cont"] = false,
             ["desc"] = L["VP_slipstream_desc1"],
         },
-
     },
-
+    -- Mists of Tirna Scithe
+    [1669] = {
+        [78202990] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["MoTSD_buff"],
+            ["desc"] = L["MoTSD_buff_desc"],
+        },
+        [41705251] = {
+            ["cont"] = false,
+            ["icon"] = 1,
+            ["title"] = L["MoTSD_seed"],
+            ["desc"] = L["MoTSD_seed_desc"],
+        },
+        [67613199] = {
+            ["cont"] = false,
+            ["icon"] = 1,
+            ["title"] = L["MoTSD_seed"],
+            ["desc"] = L["MoTSD_seed_desc"],
+        },
+        [89802310] = {
+            ["cont"] = false,
+            ["icon"] = 18,
+            ["title"] = L["MoTSD_shortcut"],
+            ["desc"] = L["MoTSD_shortcut_desc"],
+        },
+    },
 }
