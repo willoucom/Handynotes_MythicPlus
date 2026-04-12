@@ -62,7 +62,7 @@ L["HOI_door"] = "|cff00ffffОткрывается после смерти пер
 L["HOI_shortcut_frog"] = "|cff00ffffКратчайший путь к Голиафу-проглоту (лягушка)|r"
 L["HOI_shortcut_icelady"] = "|cff00ffffКратчайший путь к Каджин Непреклонная (ледяная леди)|r"
 L["HOI_mushroom"] = "Гриб"
-L["HOI_mushroom_desc"] = "Гриб может собрать травник с 25 очками навыков. Это дает группе 30-минутный бафф, который будет лечить эффект яда или болезни каждые 15 секунд."
+L["HOI_mushroom_desc"] = "Гриб может собрать травник с 25 очками навыков. Это дает группе 30 мин. бафф, который будет лечить эффект яда или болезни каждые 15 сек."
 
 -- Neltharion's Lair (NL)
 
@@ -72,7 +72,7 @@ L["NELT_percentage_desc"] = "|cffff0025Вы можете компенсиров�
 
 -- Uldaman: Legacy of Tyr (ULD)
 L["ULD_percentage"] = "|cff00ffff57.22% до события|r"
-L["ULD_mining"] = "A Miner with 25 skill points can mine the deposit, granting 10% out of combat movement speed per deposit (3 in total, up to 30% movement speed)"
+L["ULD_mining"] = "Шахтер (горное дело) с 25 очками навыков может добывать руду из месторождения, получая 10% к скорости передвижения вне боя за каждый добытый рудный пласт (всего 3, до 30% к скорости передвижения)"
 
 -- The Underrot (UNDR)
 L["UNDR_skip"] = "|cff00ffffВы можете использовать кратчайший путь после смерти второго босса|r"
@@ -100,4 +100,54 @@ L["CT_buff_desc"] = "Разбойники, жрецы и инженеры мог
 
 -- Ara Kara (ARAK)
 L["ARAK_buff"] = "Бафф"
-L["ARAK_buff_desc"] = "Портняжное дело дает 10-секундное оглушение при использовании, которое действует даже на мини-боссов c Пронзительным визгом"
+L["ARAK_buff_desc"] = "Портняжное дело дает 10 сек. оглушение при использовании, которое действует даже на маленьких боссов c Пронзительным визгом"
+
+-------------------------------------------------------------------------------
+-- Midnight — Legacy Dungeons (S1)
+-------------------------------------------------------------------------------
+
+-- The Seat of the Triumvirate (SOT) — uiMapId 903
+-- L["SOT_TODO"] = "TODO"
+
+-- Skyreach (SKY) — uiMapId 601/602
+-- L["SKY_TODO"] = "TODO"
+
+-- Pit of Saron (POS) — uiMapId 184
+-- L["POS_TODO"] = "TODO"
+
+-------------------------------------------------------------------------------
+-- Midnight — New Dungeons (S1)
+-------------------------------------------------------------------------------
+
+-- The Blinding Vale (BV) — uiMapId 2500
+-- Bosses: (TODO)
+L["BV_buff"] = "Бафф"
+L["BV_buff_desc"] = "Травники (и, возможно, паладины/жрецы) могут активировать 'Цветущая поступь': 20% скорость передвижения и 5% ускорения на 2 минуты"
+
+-- Den of Nalorakk (DN) — uiMapId 2513
+-- Bosses: (TODO)
+L["DN_buff_alchemy"] = "Оберегающее благовоние"
+L["DN_buff_alchemy_desc"] = "Алхимики 'Полночи' (навык 25) и друиды в форме медведя могут сжигать благовония: +1% к универсальности на 10 минут для всей группы"
+L["DN_buff_rune"] = "Руна фиксации"
+L["DN_buff_rune_desc"] = "Ночные эльфы, тролли и друиды в форме медведя могут активировать: снижение скорости передвижения на 50% на 15 минут (полезно во время мини-игры 'Жестокий ветер')"
+
+-- Magisters' Terrace (MT) — uiMapId 2520
+-- Bosses: Seranel Sunlash, Gemellus, Degentrius
+L["MT_buff"] = "Чародейское могущество"
+L["MT_buff_desc"] = "Любой участник группы может повзаимодействовать с книгой в библиотеке: +5% к скорости атаки на 30 минут"
+
+-- Maisara Caverns (MC) — uiMapId 2501
+-- Bosses: Muro'jin & Nekraxx, Vordaza, Rak'tul (Vessel of Souls)
+-- Key mechanic: interrupt soul-linking abilities
+
+-- Nexus-Point Xenas (NPX) — uiMapId 2556
+-- Bosses: Chief Corewright Kasreth, Corewarden Nysarra, Lothraxion
+L["NPX_tripwire"] = "Чародейская растяжка"
+L["NPX_tripwire_desc"] = "Инженеры 'Полночи' (навык 25) или разбойники могут отключить растяжки: это снимает оглушение и урон в коридоре"
+L["NPX_conduit"] = "Импульс сердцевинной искры"
+L["NPX_conduit_desc"] = "Встаньте на трубу, чтобы получить суммирующийся бонус +5% к скорости в секунду - наносит урон самому себе, который увеличивается со временем"
+
+-- Windrunner Spire (WRS) — uiMapId 2492+
+-- Bosses: Emberdawn, Derelict Duo (Kalis & Latch), Commander Kroluk, The Restless Heart
+L["WRS_speed_potion"] = "Зелье ускорения"
+L["WRS_speed_potion_desc"] = "Примените, чтобы получить 100% увеличение скорости передвижения на 1 минуту"
