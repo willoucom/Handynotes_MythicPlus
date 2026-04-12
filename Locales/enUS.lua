@@ -90,3 +90,53 @@ L["CT_buff_desc"] = "Rogues, Priests, and Engineers can buff group (15% increase
 -- Ara Kara (ARAK)
 L["ARAK_buff"] = "Buff"
 L["ARAK_buff_desc"] = "Tailoring get a on use 10 second stun that even works on the Shrilling Voice mini-bosses"
+
+-------------------------------------------------------------------------------
+-- Midnight — Legacy Dungeons (S1)
+-------------------------------------------------------------------------------
+
+-- The Seat of the Triumvirate (SOT) — uiMapId 903
+-- L["SOT_TODO"] = "TODO"
+
+-- Skyreach (SKY) — uiMapId 601/602
+-- L["SKY_TODO"] = "TODO"
+
+-- Pit of Saron (POS) — uiMapId 184
+-- L["POS_TODO"] = "TODO"
+
+-------------------------------------------------------------------------------
+-- Midnight — New Dungeons (S1)
+-------------------------------------------------------------------------------
+
+-- The Blinding Vale (BV) — uiMapId 2500
+-- Bosses: (TODO)
+L["BV_buff"] = "Buff"
+L["BV_buff_desc"] = "Herbalists (and possibly Paladins/Priests) can activate Flourishing Stride: 20% movement speed and 5% Haste for 2 minutes"
+
+-- Den of Nalorakk (DN) — uiMapId 2513
+-- Bosses: (TODO)
+L["DN_buff_alchemy"] = "Warding Incense"
+L["DN_buff_alchemy_desc"] = "Midnight Alchemists (skill 25) and Bear Form Druids can burn incense: +1% Versatility for 10 minutes for the whole party"
+L["DN_buff_rune"] = "Rune of Anchoring"
+L["DN_buff_rune_desc"] = "Night Elves, Trolls, and Bear Form Druids can activate: -50% movement forces for 15 minutes (useful during Harsh Winds mini-game)"
+
+-- Magisters' Terrace (MT) — uiMapId 2520
+-- Bosses: Seranel Sunlash, Gemellus, Degentrius
+L["MT_buff"] = "Arcane Empowerment"
+L["MT_buff_desc"] = "Anyone in the party can interact with the book in the library: +5% Haste for 30 minutes"
+
+-- Maisara Caverns (MC) — uiMapId 2501
+-- Bosses: Muro'jin & Nekraxx, Vordaza, Rak'tul (Vessel of Souls)
+-- Key mechanic: interrupt soul-linking abilities
+
+-- Nexus-Point Xenas (NPX) — uiMapId 2556
+-- Bosses: Chief Corewright Kasreth, Corewarden Nysarra, Lothraxion
+L["NPX_tripwire"] = "Arcane Tripwires"
+L["NPX_tripwire_desc"] = "Midnight Engineers (skill 25) or Rogues can disable the tripwires: removes stuns and damage from the hallway"
+L["NPX_conduit"] = "Corespark Surge"
+L["NPX_conduit_desc"] = "Stand on a conduit to gain a stacking +5% Haste per second — causes self-damage that increases over time"
+
+-- Windrunner Spire (WRS) — uiMapId 2492+
+-- Bosses: Emberdawn, Derelict Duo (Kalis & Latch), Commander Kroluk, The Restless Heart
+L["WRS_speed_potion"] = "Speed Boost Potion"
+L["WRS_speed_potion_desc"] = "Consume to gain 100% increased movement speed for 1 minute"

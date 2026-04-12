@@ -67,3 +67,53 @@ L["CT_buff"] = "Amélioration"
 L["CT_buff_desc"] = "Les Voleurs, Prêtres et Ingénieurs peuvent donner une amélioration au groupe (15% dégats et soins, ainsi que 50% de vitesse de déplacement)"
 L["ARAK_buff"] = "Amélioration"
 L["ARAK_buff_desc"] = "Les Tailleurs peuvent récupérer un sort supplémentaire qui assome une créature pendant 10 secondes, fonctionne sur les mini-boss avant l'araignée"
+
+-------------------------------------------------------------------------------
+-- Midnight — Donjons Legacy S1
+-------------------------------------------------------------------------------
+
+-- Siège du Triumvirat (SOT) — uiMapId 903
+-- L["SOT_TODO"] = "TODO"
+
+-- Orée-du-Ciel (SKY) — uiMapId 601/602
+-- L["SKY_TODO"] = "TODO"
+
+-- Fosse de Saron (POS) — uiMapId 184
+-- L["POS_TODO"] = "TODO"
+
+-------------------------------------------------------------------------------
+-- Midnight — Nouveaux donjons S1
+-------------------------------------------------------------------------------
+
+-- Vallée de l'Aveuglement (BV) — uiMapId 2500
+-- Boss : (TODO)
+L["BV_buff"] = "Amélioration"
+L["BV_buff_desc"] = "Les Herboristes (et peut-être Paladins/Prêtres) peuvent activer Foulée Épanouie : +20% vitesse de déplacement et +5% Hâte pendant 2 minutes"
+
+-- Tanière de Nalorakk (DN) — uiMapId 2513
+-- Boss : (TODO)
+L["DN_buff_alchemy"] = "Encens Protecteur"
+L["DN_buff_alchemy_desc"] = "Les Alchimistes de Minuit (compétence 25) et les Druides en forme d'ours peuvent brûler l'encens : +1% Polyvalence pendant 10 minutes pour tout le groupe"
+L["DN_buff_rune"] = "Rune d'Ancrage"
+L["DN_buff_rune_desc"] = "Les Elfes de la Nuit, Trolls et Druides en forme d'ours peuvent activer la rune : -50% de forces de déplacement pendant 15 minutes (utile pendant le mini-jeu des Vents Violents)"
+
+-- Terrasse des Magistères (MT) — uiMapId 2520
+-- Boss : Seranel Sunlash, Gemellus, Degentrius
+L["MT_buff"] = "Empowerment Arcanique"
+L["MT_buff_desc"] = "N'importe quel membre du groupe peut interagir avec le livre dans la bibliothèque : +5% Hâte pendant 30 minutes"
+
+-- Cavernes de Maisara (MC) — uiMapId 2501
+-- Boss : Muro'jin & Nekraxx, Vordaza, Rak'tul (Réceptacle des âmes)
+-- Mécanique clé : interrompre les sorts d'absorption d'âme
+
+-- Point-nexus Xenas (NPX) — uiMapId 2556
+-- Boss : Chef Corewright Kasreth, Corewarden Nysarra, Lothraxion
+L["NPX_tripwire"] = "Fils de détection arcaniques"
+L["NPX_tripwire_desc"] = "Les Ingénieurs de Minuit (compétence 25) ou les Voleurs peuvent désactiver les fils de détection : supprime les étourdissements et dégâts du couloir"
+L["NPX_conduit"] = "Surge de Noyau-Étincelle"
+L["NPX_conduit_desc"] = "Se tenir sur un conduit octroie +5% Hâte par seconde (cumulable) — inflige des dégâts sur soi-même croissants avec le temps"
+
+-- Flèche de Coursevent (WRS) — uiMapId 2492+
+-- Boss : Emberdawn, Duo Délabré (Kalis & Latch), Commandant Kroluk, Le Cœur sans repos
+L["WRS_speed_potion"] = "Potion de vitesse"
+L["WRS_speed_potion_desc"] = "Consommer pour gagner 100% de vitesse de déplacement supplémentaire pendant 1 minute"
