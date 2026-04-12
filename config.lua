@@ -6,8 +6,6 @@ ns.defaults = {
     profile = {
         icon_scale = 1.5,
         icon_alpha = 1.0,
-        entrances = true,
-        upcoming = false,
     },
 }
 
