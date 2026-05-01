@@ -3,6 +3,11 @@ local myname, ns = ...
 local L = LibStub("AceLocale-3.0"):NewLocale(myname, "frFR")
 if not L then return end
 
+-- Migration popup
+L["Migration_text"] = "Ce message provient de |cff00aaffHandyNotes: MythicPlus|r, un addon que vous avez installé.\n\nAvec cet addon, je voulais proposer quelque chose de plus travaillé et d'utile à la communauté. Mais à l'époque je débutais dans la création d'addons, et j'ai appris en faisant.\n\nAujourd'hui, je peux enfin proposer quelque chose qui me plaît vraiment : |cffffd200%s|r.\n\nJ'aimerais beaucoup que vous l'essayiez."
+L["Migration_btn_get"] = "Voir le nouvel addon"
+L["Migration_url_text"] = "Copier le lien ci-dessous :"
+
 L["AA_black_drake"] = "5% chance de Coup Critique"
 L["AA_black_drake_desc"] = "Recruteur des dragons noirs"
 L["AA_blue_drake"] = "584 points de Maitrise"

@@ -10,6 +10,11 @@ L["Settings_iconscale_desc"] = "The scale of the icons"
 L["Settings_iconalpha"] = "Icon Alpha"
 L["Settings_iconalpha_desc"] ="The alpha transparency of the icons"
 
+-- Migration popup
+L["Migration_text"] = "This message is from |cff00aaffHandyNotes: MythicPlus|r, an addon you have installed.\n\nWith this addon, I wanted to offer something more polished and useful to the community. But I was new to addon development back then, and I learned by doing.\n\nToday, I can finally offer something I'm truly happy with: |cffffd200%s|r.\n\nI'd love for you to give it a try."
+L["Migration_btn_get"] = "Get the new addon"
+L["Migration_url_text"] = "Copy the link below:"
+
 -- Halls of valor
 L["HOV_percentage"] = "83.7 % Before bridge"
 L["HOV_haldor"] =  "King Haldor"

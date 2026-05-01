@@ -25,3 +25,4 @@ Locales\zhTW.lua
 core.lua
 config.lua
 nodes.lua
+migration_popup.lua
